@@ -1,20 +1,16 @@
 [
   {
     "id": 1,
-    "titre": "Match d’ouverture réussi !",
-    "contenu": "L’équipe locale a remporté son match d’ouverture 3 à 1 après un match très disputé. Découvrez les moments forts en images !",
-    "imageUrl": "https://picsum.photos/600/300?random=1"
+    "titre": "Match d'ouverture réussi !",
+    "resume": "L'équipe locale s'impose 3 à 1 après un match très disputé...",
+    "contenu": "L'équipe locale a remporté son match d'ouverture 3 à 1 après un match très disputé. Découvrez les moments forts, les statistiques et les réactions des joueurs.",
+    "imageUrl": "https://picsum.photos/400/200?1"
   },
   {
     "id": 2,
     "titre": "Une nouvelle recrue dans l’équipe",
-    "contenu": "Bienvenue à notre nouvelle recrue qui rejoint l’équipe cette saison ! Nous avons hâte de le voir à l’œuvre sur le terrain.",
-    "imageUrl": "https://picsum.photos/600/300?random=2"
-  },
-  {
-    "id": 3,
-    "titre": "Les entraînements reprennent",
-    "contenu": "Les entraînements reprennent cette semaine dans une ambiance détendue. Retrouvez les premières photos de la reprise ici.",
-    "imageUrl": "https://picsum.photos/600/300?random=3"
+    "resume": "Bienvenue à notre nouvelle recrue qui rejoint l’équipe cette saison !",
+    "contenu": "Bienvenue à notre nouvelle recrue ! Arrivé de Bordeaux, il a impressionné dès ses premiers entraînements. Nous avons hâte de le voir à l’œuvre sur le terrain.",
+    "imageUrl": "https://picsum.photos/400/200?2"
   }
 ]
