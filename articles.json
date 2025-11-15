@@ -2,12 +2,16 @@
   {
     "id": 5,
     "titre": "The Future of Mobile Apps",
-    "resume": "A look at upcoming trends shaping mobile applications.",
+    "resume": "How modern technologies are shaping the next generation of mobile experiences.",
     "imageUrl": "https://picsum.photos/id/1015/1200/800.jpg",
     "contentBlocks": [
       {
         "type": "paragraph",
-        "value": "Mobile applications continue to evolve as technology advances.\n\nDevelopers now integrate AI, augmented reality, and enhanced UX to deliver more dynamic experiences."
+        "value": "Mobile applications are rapidly evolving thanks to major advances in artificial intelligence, machine learning, and automation. These technologies allow apps to deliver personalized experiences that adapt to each user's habits and preferences."
+      },
+      {
+        "type": "paragraph",
+        "value": "One significant trend is the rise of augmented reality. AR features are now embedded into shopping, education, and entertainment apps, making them more immersive and interactive than ever before."
       },
       {
         "type": "image",
@@ -15,7 +19,19 @@
       },
       {
         "type": "paragraph",
-        "value": "These innovations make apps more intuitive and capable, opening doors for new industries and user needs."
+        "value": "Developers are also focusing heavily on privacy and security. With stricter regulations worldwide, apps now integrate stronger encryption, anonymized analytics, and transparent data management."
+      },
+      {
+        "type": "paragraph",
+        "value": "Looking forward, the convergence of cloud computing and mobile devices will create apps that are lighter, faster, and capable of handling complex tasks usually reserved for desktop environments."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1069/1200/800.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1035/1200/800.jpg"
       }
     ]
   },
@@ -23,12 +39,16 @@
   {
     "id": 4,
     "titre": "How to Improve Productivity Daily",
-    "resume": "Simple techniques to make your day more efficient.",
+    "resume": "Practical ways to boost efficiency and stay focused throughout the day.",
     "imageUrl": "https://picsum.photos/id/1033/1200/800.jpg",
     "contentBlocks": [
       {
         "type": "paragraph",
-        "value": "Improving productivity does not require drastic changes.\n\nSmall habits like planning tasks, minimizing distractions, and taking strategic breaks can make a huge difference."
+        "value": "Productivity is not about working more but working smarter. The first step is to identify priorities and structure each day with a clear and achievable plan."
+      },
+      {
+        "type": "paragraph",
+        "value": "A powerful method to stay efficient is time blocking. By assigning fixed time periods to specific tasks, you reduce distractions and create a strong work rhythm."
       },
       {
         "type": "image",
@@ -36,7 +56,19 @@
       },
       {
         "type": "paragraph",
-        "value": "Consistency is key. Even small improvements add up over time."
+        "value": "Another important factor is your environment. A tidy desk, clean workspace, and proper lighting drastically improve your capacity to focus and remain motivated."
+      },
+      {
+        "type": "paragraph",
+        "value": "Don't forget to take strategic breaks. Short pauses throughout the day help your brain recharge and prevent burnout while increasing overall performance."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1038/1200/800.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1048/1200/800.jpg"
       }
     ]
   },
@@ -44,12 +76,16 @@
   {
     "id": 3,
     "titre": "Travel Hacks for Budget Adventures",
-    "resume": "Learn how to travel more while spending less.",
+    "resume": "Discover how to explore the world without spending a fortune.",
     "imageUrl": "https://picsum.photos/id/1011/1200/800.jpg",
     "contentBlocks": [
       {
         "type": "paragraph",
-        "value": "Traveling on a budget is easier than ever.\n\nBy booking in advance, comparing prices, and choosing off-season dates, you can save significantly."
+        "value": "Traveling on a budget is easier than ever before thanks to online comparison tools and flexible booking options. The key is to remain adaptable and keep an eye out for last-minute deals."
+      },
+      {
+        "type": "paragraph",
+        "value": "Choosing off-season dates not only reduces the cost of flights and hotels but also offers a more authentic experience without the crowds."
       },
       {
         "type": "image",
@@ -57,7 +93,19 @@
       },
       {
         "type": "paragraph",
-        "value": "Budget accommodations, local food, and public transportation also reduce costs without reducing the experience."
+        "value": "Backpacking is another popular way to save money while discovering new cultures. Staying in hostels or guesthouses often leads to meeting other travelers and sharing tips."
+      },
+      {
+        "type": "paragraph",
+        "value": "Local food markets offer cheap yet delicious meals. Eating where locals eat is not only budget-friendly but gives you a more genuine taste of the destination."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1042/1200/800.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1067/1200/800.jpg"
       }
     ]
   },
@@ -65,12 +113,16 @@
   {
     "id": 2,
     "titre": "Healthy Eating Made Easy",
-    "resume": "A beginner-friendly guide to start eating healthier.",
+    "resume": "A simple guide to building healthier habits every day.",
     "imageUrl": "https://picsum.photos/id/1080/1200/800.jpg",
     "contentBlocks": [
       {
         "type": "paragraph",
-        "value": "Healthy eating doesn't have to be complicated.\n\nStart by focusing on whole foods, reducing sugar, and staying hydrated."
+        "value": "Healthy eating begins with small but consistent changes. Replacing processed foods with natural ingredients instantly improves energy and overall well-being."
+      },
+      {
+        "type": "paragraph",
+        "value": "Planning meals ahead of time is one of the easiest ways to avoid unhealthy choices. Preparing a weekly list keeps you organized and reduces impulsive eating."
       },
       {
         "type": "image",
@@ -78,7 +130,19 @@
       },
       {
         "type": "paragraph",
-        "value": "Planning meals in advance can help you avoid unhealthy choices throughout the week."
+        "value": "Hydration is a key part of nutrition. Drinking enough water improves digestion, boosts concentration, and helps maintain a healthy weight."
+      },
+      {
+        "type": "paragraph",
+        "value": "Finally, balance is essential. You don’t need to eliminate entire food groups — simply focus on variety, portion control, and whole ingredients."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1081/1200/800.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1083/1200/800.jpg"
       }
     ]
   },
@@ -86,12 +150,16 @@
   {
     "id": 1,
     "titre": "Getting Started With Fitness",
-    "resume": "Your first steps toward a healthier lifestyle.",
+    "resume": "Begin your journey towards a stronger and healthier lifestyle.",
     "imageUrl": "https://picsum.photos/id/1005/1200/800.jpg",
     "contentBlocks": [
       {
         "type": "paragraph",
-        "value": "Beginning a fitness journey can be intimidating, but it doesn't need to be.\n\nStart slowly and set realistic goals."
+        "value": "Starting a fitness routine can feel overwhelming, but taking it one step at a time makes the journey manageable and enjoyable."
+      },
+      {
+        "type": "paragraph",
+        "value": "Before beginning any program, set realistic goals. Whether you want to build muscle, lose weight, or improve endurance, having a clear objective helps you stay on track."
       },
       {
         "type": "image",
@@ -99,7 +167,19 @@
       },
       {
         "type": "paragraph",
-        "value": "Combine strength training, cardio, and flexibility exercises for a balanced routine."
+        "value": "A balanced routine mixes cardio, strength training, and flexibility exercises. This combination improves overall fitness and reduces the risk of injury."
+      },
+      {
+        "type": "paragraph",
+        "value": "Consistency matters more than intensity. Even 20 minutes per day can bring visible results as long as you remain dedicated."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1001/1200/800.jpg"
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1003/1200/800.jpg"
       }
     ]
   }
