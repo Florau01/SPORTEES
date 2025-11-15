@@ -1,19 +1,106 @@
-{
-  "id": 1,
-  "titre": "Match d'ouverture réussi !","resume": "L'équipe locale s'impose 3 à 1 après un match très disputé...",
-  "image_url": "https://raw.githubusercontent.com/Florau01/SPORTEES/main/gallery_images/IMG_6407.jpg",
-  "content_blocks": [
-    {
-      "type": "paragraph",
-      "value": "This is the first paragraph of the article. It describes the exciting match."
-    },
-    {
-      "type": "image",
-      "value": "https://raw.githubusercontent.com/Florau01/SPORTEES/main/gallery_images/IMG_6426.jpg"
-    },
-    {
-      "type": "paragraph",
-      "value": "This is another paragraph, continuing the story of the match."
-    }
-  ]
-}
+[
+  {
+    "id": 5,
+    "titre": "The Future of Mobile Apps",
+    "resume": "A look at upcoming trends shaping mobile applications.",
+    "imageUrl": "https://picsum.photos/id/1015/1200/800.jpg",
+    "contentBlocks": [
+      {
+        "type": "paragraph",
+        "value": "Mobile applications continue to evolve as technology advances.\n\nDevelopers now integrate AI, augmented reality, and enhanced UX to deliver more dynamic experiences."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1041/1200/800.jpg"
+      },
+      {
+        "type": "paragraph",
+        "value": "These innovations make apps more intuitive and capable, opening doors for new industries and user needs."
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "titre": "How to Improve Productivity Daily",
+    "resume": "Simple techniques to make your day more efficient.",
+    "imageUrl": "https://picsum.photos/id/1033/1200/800.jpg",
+    "contentBlocks": [
+      {
+        "type": "paragraph",
+        "value": "Improving productivity does not require drastic changes.\n\nSmall habits like planning tasks, minimizing distractions, and taking strategic breaks can make a huge difference."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1060/1200/800.jpg"
+      },
+      {
+        "type": "paragraph",
+        "value": "Consistency is key. Even small improvements add up over time."
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "titre": "Travel Hacks for Budget Adventures",
+    "resume": "Learn how to travel more while spending less.",
+    "imageUrl": "https://picsum.photos/id/1011/1200/800.jpg",
+    "contentBlocks": [
+      {
+        "type": "paragraph",
+        "value": "Traveling on a budget is easier than ever.\n\nBy booking in advance, comparing prices, and choosing off-season dates, you can save significantly."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1025/1200/800.jpg"
+      },
+      {
+        "type": "paragraph",
+        "value": "Budget accommodations, local food, and public transportation also reduce costs without reducing the experience."
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "titre": "Healthy Eating Made Easy",
+    "resume": "A beginner-friendly guide to start eating healthier.",
+    "imageUrl": "https://picsum.photos/id/1080/1200/800.jpg",
+    "contentBlocks": [
+      {
+        "type": "paragraph",
+        "value": "Healthy eating doesn't have to be complicated.\n\nStart by focusing on whole foods, reducing sugar, and staying hydrated."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1084/1200/800.jpg"
+      },
+      {
+        "type": "paragraph",
+        "value": "Planning meals in advance can help you avoid unhealthy choices throughout the week."
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "titre": "Getting Started With Fitness",
+    "resume": "Your first steps toward a healthier lifestyle.",
+    "imageUrl": "https://picsum.photos/id/1005/1200/800.jpg",
+    "contentBlocks": [
+      {
+        "type": "paragraph",
+        "value": "Beginning a fitness journey can be intimidating, but it doesn't need to be.\n\nStart slowly and set realistic goals."
+      },
+      {
+        "type": "image",
+        "value": "https://picsum.photos/id/1002/1200/800.jpg"
+      },
+      {
+        "type": "paragraph",
+        "value": "Combine strength training, cardio, and flexibility exercises for a balanced routine."
+      }
+    ]
+  }
+]
