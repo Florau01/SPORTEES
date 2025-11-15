@@ -1,16 +1,19 @@
-[
-  {
-    "id": 1,
-    "titre": "Match d'ouverture réussi !",
-    "resume": "L'équipe locale s'impose 3 à 1 après un match très disputé...",
-    "contenu": "L'équipe locale a remporté son match d'ouverture 3 à 1 après un match très disputé. Découvrez les moments forts, les statistiques et les réactions des joueurs. hfjkhjnsdklfjhjklosdfjkpsdjfksdjfksjdfljskldfjkl",
-    "imageUrl": "https://picsum.photos/400/200?1"
-  },
-  {
-    "id": 2,
-    "titre": "Une nouvelle recrue dans l’équipe",
-    "resume": "Bienvenue à notre nouvelle recrue qui rejoint l’équipe cette saison !",
-    "contenu": "Bienvenue à notre nouvelle recrue ! Arrivé de Bordeaux, il a impressionné dès ses premiers entraînements. Nous avons hâte de le voir à l’œuvre sur le terrain.",
-    "imageUrl": "https://picsum.photos/400/200?2"
-  }
-]
+{
+  "id": 1,
+  "titre": "Match d'ouverture réussi !","resume": "L'équipe locale s'impose 3 à 1 après un match très disputé...",
+  "image_url": "https://raw.githubusercontent.com/Florau01/SPORTEES/main/gallery_images/IMG_6407.jpg",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "value": "This is the first paragraph of the article. It describes the exciting match."
+    },
+    {
+      "type": "image",
+      "value": "https://raw.githubusercontent.com/Florau01/SPORTEES/main/gallery_images/IMG_6426.jpg"
+    },
+    {
+      "type": "paragraph",
+      "value": "This is another paragraph, continuing the story of the match."
+    }
+  ]
+}
